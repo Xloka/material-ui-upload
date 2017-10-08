@@ -1,6 +1,6 @@
 {
   "name": "material-ui-upload",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Upload controls made in material-ui.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corpix/material-ui-upload.git"
+    "url": "git+https://github.com/Xloka/material-ui-upload.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Dmitry Moskowski <me+material-ui-upload@corpix.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/corpix/material-ui-upload/issues"
+    "url": "https://github.com/Xloka/material-ui-upload/issues"
   },
-  "homepage": "https://github.com/corpix/material-ui-upload#readme",
+  "homepage": "https://github.com/Xloka/material-ui-upload#readme",
   "devDependencies": {
     "@storybook/cli": "^3.2.5",
     "@storybook/react": "^3.2.5",
