@@ -1,6 +1,6 @@
 {
   "name": "material-ui-upload",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Upload controls made in material-ui.",
   "main": "index.js",
   "scripts": {
@@ -51,8 +51,8 @@
     "lodash": "^4.17.4",
     "material-ui": "^0.19.0",
     "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "react-tap-event-plugin": "^2.0.1"
   }
 }
